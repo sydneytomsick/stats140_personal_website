@@ -106,7 +106,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#methods" id="toc-methods" class="nav-link active" data-scroll-target="#methods">Methods</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -136,15 +142,15 @@ ul.task-list li input[type="checkbox"] {
 
 <p>My team and I were provided with training and testing datasets containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable “obesity status” classified individuals as either “Obese” or “Not Obese”.</p>
 <p>We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. This is our <a href="Stats101C_Final_Paper.pdf">final report</a>.</p>
-<section id="methods" class="level4">
-<h4 class="anchored" data-anchor-id="methods">Methods</h4>
+<section id="methods" class="level3">
+<h3 class="anchored" data-anchor-id="methods">Methods</h3>
 <p>First, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.</p>
 <p>We then found the most influential predictors using correlation analysis (point-biserial and Cramer’s V correlation) and variable importance from the random forest model.</p>
-</section>
 <section id="section" class="level4">
 <h4 class="anchored" data-anchor-id="section"></h4>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
