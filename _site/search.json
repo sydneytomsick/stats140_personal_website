@@ -9,8 +9,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal Website",
+    "title": "Sydney Tomsick",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nx = 10 \nprint(x)\n\n[1] 10\n\n\n\ny = \"hi\"\nprint(y)\n\n[1] \"hi\"\n\nz = 15\nprint(z)\n\n[1] 15"
+    "text": "Sydney Tomsick is a 3rd year Statistics and Data Science major at UCLA with a minor in Digital Humanities. She is passionate about deriving valuable insights through data, and presenting her findings in creative and innovative ways.\nDownload My Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sydney Tomsick",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | BS in Statistics/Data Science | GPA: 3.83"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sydney Tomsick",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Project 1\n\n\nProject 2"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Sydney Tomsick",
+    "section": "Projects",
+    "text": "Projects\nGo to Projects Page"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Sydney Tomsick",
+    "section": "Publications",
+    "text": "Publications"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Sydney Tomsick",
+    "section": "Skills",
+    "text": "Skills\nLanguages: R, familiarity with Python, Javascript, and HTML\n\nTechnologies: WordPress, Google Sites, Figma, Canva, Microsoft Suite, Tableau, Power BI, Github, VS Studio"
   }
 ]

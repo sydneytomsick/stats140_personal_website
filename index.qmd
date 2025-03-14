@@ -1,24 +1,41 @@
 ---
-title: "Personal Website"
+title: "Sydney Tomsick"
+about:
+  template: trestles
+  image: profile_photo.jpg
+  links:
+    - icon: inbox
+      text: email 
+      url: "mailto:sydneytomsick@g.ucla.edu"
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/sydney-tomsick-82892829a/
+    - icon: github
+      text: github
+      href: https://github.com/sydneytomsick
 ---
 
-This is a Quarto website.
+Sydney Tomsick is a 3rd year Statistics and Data Science major at UCLA with a minor in Digital Humanities. She is passionate about deriving valuable insights through data, and presenting her findings in creative and innovative ways.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Download [My Resume](//Resume_Jan25.pdf)
 
-```{r}
-1 + 1
-```
+## Education
 
-```{r}
-x = 10 
-print(x)
-```
+University of California, Los Angeles \| BS in Statistics/Data Science \| GPA: 3.83
 
-```{r}
-y = "hi"
-print(y)
+## Projects
 
-z = 15
-print(z)
-```
+Go to [Projects Page](/projects.qmd)
+
+## Skills					
+
+**Languages:** R, familiarity with Python, Javascript, and HTML\
+
+**Technologies:** WordPress, Google Sites, Figma, Canva, Microsoft Suite, Tableau, Power BI, Github, VS Studio			
+				
+
+			
+
+		
+
+	
