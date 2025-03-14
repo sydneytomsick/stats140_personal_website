@@ -5,7 +5,7 @@ date: "September 2024"
 
 ### Methods 
 
-Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span. Here is my [final report]("Stats101B_Final_Paper.pdf).
+Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span. Here is my [final report]("Stats101B_Final_Project.pdf).
 
 There were 9 experimental groups in total. The 2 factors each had 3 levels:
 
