@@ -1,8 +1,16 @@
 ---
-title: "project3"
+title: "A Clinical Study: The Effect of Caffeine and Exercise on Attention"
+date: "September 2024"
 ---
 
-```{r}
-x = 5
-print(x)
-```
+#### Methods 
+
+Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span.
+
+There were 9 experimental groups in total. The 2 factors each had 3 levels:
+
+-   **Caffeine intake**: Green Tea (250mL), Coffee (250mL), Coffee (500mL)
+
+-   **Running distance**: 100m, 1km, 5km
+
+I used ANOVA to reveal whether caffeine intake, running distance, or their interaction had a statistically significant effect on attention span. I used Tukey's test to revel whether any individual group differed significantly from the others.

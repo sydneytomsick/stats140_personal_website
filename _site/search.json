@@ -88,7 +88,7 @@
     "href": "projects.html",
     "title": "Listing Example",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n\n\n\nundefined\n\n\nproject3\n\n\n\n\n\n\n\nDec 1, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\n\n\n\nDec 1, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nDec 1, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\nDec 1, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\nSep 1, 2024\n\n\nA Clinical Study: The Effect of Caffeine and Exercise on Attention\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project_1.html",
@@ -100,15 +100,15 @@
   {
     "objectID": "project_3.html",
     "href": "project_3.html",
-    "title": "project3",
+    "title": "A Clinical Study: The Effect of Caffeine and Exercise on Attention",
     "section": "",
-    "text": "x = 5\nprint(x)\n\n[1] 5"
+    "text": "Methods\nUsing a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span.\nThere were 9 experimental groups in total. The 2 factors each had 3 levels:\n\nCaffeine intake: Green Tea (250mL), Coffee (250mL), Coffee (500mL)\nRunning distance: 100m, 1km, 5km\n\nI used ANOVA to reveal whether caffeine intake, running distance, or their interaction had a statistically significant effect on attention span. I used Tukey’s test to revel whether any individual group differed significantly from the others."
   },
   {
     "objectID": "project_2.html",
     "href": "project_2.html",
     "title": "Kaggle Competition: Predicting Obesity Status",
     "section": "",
-    "text": "My team and I were provided with training and testing datasets containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable “obesity status” classified individuals as either “Obese” or “Not Obese”.\nWe were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. This is our final report.\n\nMethods and Results\nFirst, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.\nWe then found the most influential predictors using correlation analysis (point-biserial and Cramer’s V correlation) and variable importance from the random forest model."
+    "text": "My team and I were provided with training and testing datasets containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable “obesity status” classified individuals as either “Obese” or “Not Obese”.\nWe were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. This is our final report.\n\nMethods\nFirst, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.\nWe then found the most influential predictors using correlation analysis (point-biserial and Cramer’s V correlation) and variable importance from the random forest model."
   }
 ]

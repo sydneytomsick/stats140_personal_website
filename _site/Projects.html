@@ -71,7 +71,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -192,8 +192,6 @@ ul.task-list li input[type="checkbox"] {
 <thead>
 <tr>
 <th>
-</th>
-<th>
 <a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
 </th>
 <th>
@@ -202,21 +200,7 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1741974878173" data-listing-reading-time-sort="1" data-listing-title-sort="project3" data-listing-filename-sort="project_3.qmd">
-<td>
-<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
-</td>
-<td>
-<span class="listing-date">undefined</span>
-</td>
-<td>
-<a href="./project_3.html" class="title listing-title">project3</a>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1733040000000" data-listing-file-modified-sort="1741975383590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Exploring Female Representation in MoMA" data-listing-filename-sort="project_1.qmd">
-<td>
-<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
-</td>
+<tr data-index="0" data-listing-date-sort="1733040000000" data-listing-file-modified-sort="1741975383590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Exploring Female Representation in MoMA" data-listing-filename-sort="project_1.qmd">
 <td>
 <span class="listing-date">Dec 1, 2024</span>
 </td>
@@ -224,15 +208,20 @@ ul.task-list li input[type="checkbox"] {
 <a href="./project_1.html" class="title listing-title">Exploring Female Representation in MoMA</a>
 </td>
 </tr>
-<tr data-index="2" data-listing-date-sort="1733040000000" data-listing-file-modified-sort="1741979152327" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Kaggle Competition: Predicting Obesity Status" data-listing-filename-sort="project_2.qmd">
-<td>
-<span class="listing-image"><div class="listing-item-img-placeholder card-img-top" style="height: 40px;">&nbsp;</div></span>
-</td>
+<tr data-index="1" data-listing-date-sort="1733040000000" data-listing-file-modified-sort="1741980157808" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Kaggle Competition: Predicting Obesity Status" data-listing-filename-sort="project_2.qmd">
 <td>
 <span class="listing-date">Dec 1, 2024</span>
 </td>
 <td>
 <a href="./project_2.html" class="title listing-title">Kaggle Competition: Predicting Obesity Status</a>
+</td>
+</tr>
+<tr data-index="2" data-listing-date-sort="1725174000000" data-listing-file-modified-sort="1741980136214" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="A Clinical Study: The Effect of Caffeine and Exercise on Attention" data-listing-filename-sort="project_3.qmd">
+<td>
+<span class="listing-date">Sep 1, 2024</span>
+</td>
+<td>
+<a href="./project_3.html" class="title listing-title">A Clinical Study: The Effect of Caffeine and Exercise on Attention</a>
 </td>
 </tr>
 </tbody>

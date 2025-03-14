@@ -7,7 +7,7 @@ My team and I were provided with training and testing datasets containing 29 pre
 
 We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. This is our [final report](Stats101C_Final_Paper.pdf).
 
-#### Methods and Results 
+#### Methods 
 
 First, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.
 

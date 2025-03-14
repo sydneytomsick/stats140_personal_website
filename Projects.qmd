@@ -3,7 +3,7 @@ title: "Listing Example"
 listing:
   type: table
   sort: "date desc"
-  fields: [image, date, title]
+  fields: [date, title]
   contents:
     - "project_1.qmd"
     - "project_2.qmd"
