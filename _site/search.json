@@ -54,5 +54,33 @@
     "title": "Sydney Tomsick",
     "section": "Skills",
     "text": "Skills\nLanguages: R, familiarity with Python, Javascript, and HTML\n\nTechnologies: WordPress, Google Sites, Figma, Canva, Microsoft Suite, Tableau, Power BI, Github, VS Studio"
+  },
+  {
+    "objectID": "project1.html",
+    "href": "project1.html",
+    "title": "project1",
+    "section": "",
+    "text": "My team and I created a website discussing the lack of female representation in art museums. We used this dataset created by the Museum of Modern Art (MoMA) to make visualizations showing how female artist representation has changed in MoMA overtime both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.\n\n\n\nHow did waves of feminism and American social movements of the mid-1900s affect the representation of American female artists in the MoMA collection? \nBeyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?\n\n\n\n\nMy main responsibility in this project was web design through WordPress. I also helped clean the data and create data visualizations."
+  },
+  {
+    "objectID": "project1.html#exploring-female-representation-in-moma",
+    "href": "project1.html#exploring-female-representation-in-moma",
+    "title": "project1",
+    "section": "",
+    "text": "My team and I created a website discussing the lack of female representation in art museums. We used this dataset created by the Museum of Modern Art (MoMA) to make visualizations showing how female artist representation has changed in MoMA overtime both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.\n\n\n\nHow did waves of feminism and American social movements of the mid-1900s affect the representation of American female artists in the MoMA collection? \nBeyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?\n\n\n\n\nMy main responsibility in this project was web design through WordPress. I also helped clean the data and create data visualizations."
+  },
+  {
+    "objectID": "project2.html",
+    "href": "project2.html",
+    "title": "project2",
+    "section": "",
+    "text": "x = 5\nprint(x)\n\n[1] 5"
+  },
+  {
+    "objectID": "project3.html",
+    "href": "project3.html",
+    "title": "project3",
+    "section": "",
+    "text": "x = 5\nprint(x)\n\n[1] 5"
   }
 ]

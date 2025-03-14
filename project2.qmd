@@ -1,0 +1,8 @@
+---
+title: "project2"
+---
+
+```{r}
+x = 5
+print(x)
+```

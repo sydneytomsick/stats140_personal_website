@@ -1,0 +1,17 @@
+---
+title: "project1"
+---
+
+## Exploring Female Representation in MoMA
+
+My team and I created a [website](https://exhibitexplorers.humspace.ucla.edu/) discussing the lack of female representation in art museums. We used this [dataset](https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artworks.csv) created by the Museum of Modern Art (MoMA) to make visualizations showing how female artist representation has changed in MoMA overtime both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.
+
+#### Our Research Questions
+
+1.  How did waves of feminism and American social movements of the mid-1900s affect the representation of American female artists in the MoMA collection? 
+
+2.  Beyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?
+
+#### My Responsibilities 
+
+My main responsibility in this project was web design through WordPress. I also helped clean the data and create data visualizations.

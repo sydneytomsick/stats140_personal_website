@@ -1,7 +1,9 @@
 ---
 title: "Projects"
+listing: 
+  type: table 
+  contents: 
+    - "project/*.qmd"
 ---
 
-### Project 1
-
-### Project 2
+### 
