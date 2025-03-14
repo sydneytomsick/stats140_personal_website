@@ -13,4 +13,4 @@ There were 9 experimental groups in total. The 2 factors each had 3 levels:
 
 -   **Running distance**: 100m, 1km, 5km
 
-I used ANOVA to reveal whether caffeine intake, running distance, or their interaction had a statistically significant effect on attention span. I used Tukey's test to revel whether any individual group differed significantly from the others.
+I used ANOVA to reveal whether caffeine intake, running distance, or their interaction had a statistically significant effect on attention span. I used Tukey's test to reveal whether any individual group differed significantly from the others.
