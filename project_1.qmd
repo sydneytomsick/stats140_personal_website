@@ -13,4 +13,4 @@ My team and I created a [website](https://exhibitexplorers.humspace.ucla.edu/) d
 
 ### My Role 
 
-My main responsibility in this project was web design through WordPress. I also helped clean the data and create data visualizations.
+My main responsibility for this project was web design through WordPress. I also helped clean the data and create data visualizations.

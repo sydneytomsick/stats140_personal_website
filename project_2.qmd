@@ -3,7 +3,7 @@ title: "Kaggle Competition: Predicting Obesity Status"
 date: "December 2024"
 ---
 
-My team and I were provided with training and testing datasets containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable "obesity status" classified individuals as either "Obese" or "Not Obese".
+My team and I were provided with a training and testing dataset containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable "obesity status" classified individuals as either "Obese" or "Not Obese".
 
 We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. This is our [final report](Stats101C_Final_Paper.pdf).
 
@@ -11,7 +11,7 @@ We were tasked with predicting obesity status for the testing dataset and determ
 
 First, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.
 
-We then found the most influential predictors using correlation analysis (point-biserial and Cramer's V correlation) and variable importance from the random forest model.
+We then found the most influential predictors using correlation analysis (point-biserial and Cramer's V correlation) and variable importance from the random forests model.
 
 #### 
 					
