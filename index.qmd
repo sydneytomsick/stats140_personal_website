@@ -17,7 +17,7 @@ about:
 
 Sydney Tomsick is a 3rd year Statistics and Data Science major at UCLA with a minor in Digital Humanities. She is passionate about deriving valuable insights through data, and presenting her findings in creative and innovative ways. She also enjoys web design and user experience research. Outside of academic pursuits, Sydney loves to dance and is one of the directors of Synthesis Dance Theater, a dance club at UCLA.
 
-Download [My Resume](//Resume_Jan25.pdf)
+Download [My Resume](Resume_Jan25.pdf)
 
 ### Education
 
@@ -31,9 +31,9 @@ University of California, Los Angeles
 
 ### Experience 
 
-Sydney is a data journalist for [The Stack](/https://stack.dailybruin.com/), a branch of the Daily Bruin. She writes articles about various topics on campus centered around data insights and visualizations. Here is an [article](/https://stack.dailybruin.com/2024/01/20/startups-ucla/) she wrote about startups at UCLA.
+Sydney is a data journalist for [The Stack](https://stack.dailybruin.com/), a branch of the Daily Bruin. She writes articles about various topics on campus centered around data insights and visualizations. Here is an [article](https://stack.dailybruin.com/2024/01/20/startups-ucla/) she wrote about startups at UCLA.
 
-Go to the [Projects page](/projects.qmd) to see other projects Sydney has worked on for class and in her free time!				
+Go to the [Projects page](projects.qmd) to see other projects Sydney has worked on for class and in her free time!				
 
 			
 
