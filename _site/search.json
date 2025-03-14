@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Sydney Tomsick",
     "section": "",
-    "text": "Sydney Tomsick is a 3rd year Statistics and Data Science major at UCLA with a minor in Digital Humanities. She is passionate about deriving valuable insights through data, and presenting her findings in creative and innovative ways.\nDownload My Resume"
+    "text": "Sydney Tomsick is a 3rd year Statistics and Data Science major at UCLA with a minor in Digital Humanities. She is passionate about deriving valuable insights through data, and presenting her findings in creative and innovative ways. She also enjoys web design and user experience research. Outside of academic pursuits, Sydney loves to dance and is one of the directors of Synthesis Dance Theater, a dance club at UCLA.\nDownload My Resume\n\nEducation\nUniversity of California, Los Angeles\n\nBS in Statistics/Data Science\nMinor in Digital Humanities\nSept 2022 - Present\n\n\n\nExperience\nSydney is a data journalist for The Stack, a branch of the Daily Bruin. She writes articles about various topics on campus centered around data insights and visualizations. Here is an article she wrote about startups at UCLA.\nGo to the Projects page to see other projects Sydney has worked on for class and in her free time!"
   },
   {
     "objectID": "index.html#education",
@@ -25,14 +25,14 @@
     "href": "index.html#experience",
     "title": "Sydney Tomsick",
     "section": "Experience",
-    "text": "Experience"
+    "text": "Experience\nSydney is a data journalist for The Stack, a branch of the Daily Bruin. She writes articles about various topics on campus centered around data insights and visualizations. Here is an article she wrote about startups at UCLA.\nGo to the Projects Page to see other projects Sydney has worked on for class and in her free time!"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Project 1\n\n\nProject 2"
+    "text": "No matching items"
   },
   {
     "objectID": "index.html#projects",
@@ -58,9 +58,9 @@
   {
     "objectID": "project1.html",
     "href": "project1.html",
-    "title": "project1",
+    "title": "Exploring Female Representation in MoMA",
     "section": "",
-    "text": "My team and I created a website discussing the lack of female representation in art museums. We used this dataset created by the Museum of Modern Art (MoMA) to make visualizations showing how female artist representation has changed in MoMA overtime both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.\n\n\n\nHow did waves of feminism and American social movements of the mid-1900s affect the representation of American female artists in the MoMA collection? \nBeyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?\n\n\n\n\nMy main responsibility in this project was web design through WordPress. I also helped clean the data and create data visualizations."
+    "text": "My team and I created a website discussing the lack of female representation in art museums. We used this dataset created by the Museum of Modern Art (MoMA) to make visualizations showing how female artist representation has changed in MoMA overtime both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.\n\nOur Research Questions\n\nHow did waves of feminism and American social movements of the mid-1900s affect the representation of American female artists in the MoMA collection? \nBeyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?\n\n\n\nMy Responsibilities\nMy main responsibility in this project was web design through WordPress. I also helped clean the data and create data visualizations."
   },
   {
     "objectID": "project1.html#exploring-female-representation-in-moma",
@@ -82,5 +82,33 @@
     "title": "project3",
     "section": "",
     "text": "x = 5\nprint(x)\n\n[1] 5"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Listing Example",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\n\n\n\nundefined\n\n\nproject3\n\n\n\n\n\n\n\nDec 1, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\n\n\n\nDec 1, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "project_1.html",
+    "href": "project_1.html",
+    "title": "Exploring Female Representation in MoMA",
+    "section": "",
+    "text": "My team and I created a website discussing the lack of female representation in art museums. We used this dataset created by the Museum of Modern Art (MoMA) to make visualizations showing how female artist representation has changed in MoMA overtime both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.\n\nOur Research Questions\n\nHow did waves of feminism and American social movements of the mid-1900s affect the representation of American female artists in the MoMA collection? \nBeyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?\n\n\n\nMy Responsibilities\nMy main responsibility in this project was web design through WordPress. I also helped clean the data and create data visualizations."
+  },
+  {
+    "objectID": "project_3.html",
+    "href": "project_3.html",
+    "title": "project3",
+    "section": "",
+    "text": "x = 5\nprint(x)\n\n[1] 5"
+  },
+  {
+    "objectID": "project_2.html",
+    "href": "project_2.html",
+    "title": "Kaggle Competition: Predicting Obesity Status",
+    "section": "",
+    "text": "My team and I were provided with training and testing datasets containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable “obesity status” classified individuals as either “Obese” or “Not Obese”.\nWe were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. This is our final report.\n\nMethods and Results\nFirst, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.\nWe then found the most influential predictors using correlation analysis (point-biserial and Cramer’s V correlation) and variable importance from the random forest model."
   }
 ]

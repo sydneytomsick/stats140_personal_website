@@ -1,8 +1,7 @@
 ---
-title: "project1"
+title: "Exploring Female Representation in MoMA"
+date: "December 2024"
 ---
-
-## Exploring Female Representation in MoMA
 
 My team and I created a [website](https://exhibitexplorers.humspace.ucla.edu/) discussing the lack of female representation in art museums. We used this [dataset](https://media.githubusercontent.com/media/MuseumofModernArt/collection/refs/heads/main/Artworks.csv) created by the Museum of Modern Art (MoMA) to make visualizations showing how female artist representation has changed in MoMA overtime both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.
 

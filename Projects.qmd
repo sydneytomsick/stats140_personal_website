@@ -1,9 +1,11 @@
 ---
-title: "Projects"
-listing: 
-  type: table 
-  contents: 
-    - "project/*.qmd"
+title: "Listing Example"
+listing:
+  type: table
+  sort: "date desc"
+  fields: [image, date, title]
+  contents:
+    - "project_1.qmd"
+    - "project_2.qmd"
+    - "project_3.qmd"
 ---
-
-### 
