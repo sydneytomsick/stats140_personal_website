@@ -5,11 +5,11 @@ date: "September 2024"
 
 ### Methods 
 
-Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span.
+Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span. Here is my [final report](/"Stats101B_Final_Paper.pdf).
 
 There were 9 experimental groups in total. The 2 factors each had 3 levels:
 
--   **Caffeine intake**: Green Tea (250mL), Coffee (250mL), Coffee (500mL)
+-   **Caffeine intake:** Green Tea (250mL), Coffee (250mL), Coffee (500mL)
 
 -   **Running distance**: 100m, 1km, 5km
 
