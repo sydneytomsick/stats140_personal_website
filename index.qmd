@@ -14,3 +14,8 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 x = 10 
 print(x)
 ```
+
+```{r}
+y = "hi"
+print(y)
+```
