@@ -3,9 +3,9 @@ title: "A Clinical Study: The Effect of Caffeine and Exercise on Attention"
 date: "September 2024"
 ---
 
-### Methods
+### [Final Report](Stats101B_Final_Project.pdf)
 
-Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span. Here is my [final report](Stats101B_Final_Project.pdf).
+Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span.
 
 There were 9 experimental groups in total. The 2 factors each had 3 levels:
 
