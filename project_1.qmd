@@ -11,6 +11,6 @@ My team and I created a [website](https://exhibitexplorers.humspace.ucla.edu/) d
 
 2.  Beyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?
 
-### My Role 
+### My Role
 
 My main responsibility for this project was web design through WordPress. I also helped clean the data and create data visualizations.

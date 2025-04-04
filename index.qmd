@@ -17,7 +17,7 @@ about:
 
 Sydney Tomsick is a third-year Statistics and Data Science major at UCLA with a minor in Digital Humanities. She is passionate about deriving valuable insights through data and presenting her findings in creative and innovative ways. She also enjoys web design and user experience research. Outside of academic pursuits, Sydney loves to dance and is one of the directors of Synthesis Dance Theater, a dance club at UCLA.
 
-Download [My Resume](Resume_Mar25 copy.pdf)
+Download [My Resume](Resume_Mar25%20copy.pdf)
 
 ### Education
 

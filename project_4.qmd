@@ -1,0 +1,23 @@
+---
+title: "The Social Soundscape: How Social Media Impacts Music Popularity"
+date: "March 2025"
+---
+
+### [Final Report](Stats140XP_FinalReport.pdf)
+
+### [Final Poster](Stats140XP_ProjectPoster.pdf)
+
+My team and I used this [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024) with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, TikTok posts, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this [link](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024). We used this dataset to answer the following research questions.
+
+### Research Questions
+
+1.  Does the release month of a song impact its popularity?
+2.  Are certain genres of songs more popular on certain platforms?
+3.  Is there a correlation between a song’s popularity on TikTok vs. Spotify?
+
+### My Role
+
+I was specifically responsible for cleaning the data and answering research question 1. I cleaned the data by removing duplicate observations, removing unnecessary columns, standardizing the release date column, adding a "Release.Month" column, and performing missing data imputation. Further, the columns that contained numbers of streams/likes/posts/views were originally stored as categorical variables and contained commas within the numbers. I eliminated the commas and made these variables numeric.
+
+For research question 1, I checked the assumptions for ANOVA and found that the residuals were heavily skewed and did not follow a normal distribution. Therefore, I used the nonparametric Kruskal Wallis test to evaluate whether at least one release month had a statistically different distribution of Spotify streams compared to others. For the post-hoc analysis, I used the Wilcoxon Rank-Sum test with Bonferroni correction to evaluate which specific release months had a different distribution of Spotify Streams.
+
