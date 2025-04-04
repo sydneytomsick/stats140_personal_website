@@ -106,7 +106,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#methods" id="toc-methods" class="nav-link active" data-scroll-target="#methods">Methods</a></li>
+  <li><a href="#final-report" id="toc-final-report" class="nav-link active" data-scroll-target="#final-report">Final Report</a></li>
+  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
   </ul>
 </nav>
     </div>
@@ -136,8 +137,10 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>My team and I were provided with a training and testing dataset containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable “obesity status” classified individuals as either “Obese” or “Not Obese”.</p>
-<p>We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. This is our <a href="Stats101C_Final_Paper.pdf">final report</a>.</p>
+<section id="final-report" class="level3">
+<h3 class="anchored" data-anchor-id="final-report"><a href="Stats101C_Final_Paper.pdf">Final Report</a></h3>
+<p>My team and I were provided with a training and testing dataset containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable “obesity status” classified individuals as either “Obese” or “Not Obese”. We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors.</p>
+</section>
 <section id="methods" class="level3">
 <h3 class="anchored" data-anchor-id="methods">Methods</h3>
 <p>First, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.</p>

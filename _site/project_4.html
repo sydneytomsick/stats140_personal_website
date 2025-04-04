@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-12-01">
+<meta name="dcterms.date" content="2025-03-01">
 
-<title>Sydney Tomsick - Exploring Female Representation in MoMA</title>
+<title>Sydney Tomsick - The Social Soundscape: How Social Media Impacts Music Popularity</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -106,8 +106,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#final-website-exploring-female-representation-in-moma" id="toc-final-website-exploring-female-representation-in-moma" class="nav-link active" data-scroll-target="#final-website-exploring-female-representation-in-moma">Final Website: Exploring Female Representation in MoMA</a></li>
-  <li><a href="#our-research-questions" id="toc-our-research-questions" class="nav-link" data-scroll-target="#our-research-questions">Our Research Questions</a></li>
+  <li><a href="#final-report" id="toc-final-report" class="nav-link active" data-scroll-target="#final-report">Final Report</a></li>
+  <li><a href="#final-poster" id="toc-final-poster" class="nav-link" data-scroll-target="#final-poster">Final Poster</a></li>
+  <li><a href="#research-questions" id="toc-research-questions" class="nav-link" data-scroll-target="#research-questions">Research Questions</a></li>
   <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role">My Role</a></li>
   </ul>
 </nav>
@@ -117,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Exploring Female Representation in MoMA</h1>
+<h1 class="title">The Social Soundscape: How Social Media Impacts Music Popularity</h1>
 </div>
 
 
@@ -128,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">December 1, 2024</p>
+      <p class="date">March 1, 2025</p>
     </div>
   </div>
   
@@ -138,20 +139,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="final-website-exploring-female-representation-in-moma" class="level3">
-<h3 class="anchored" data-anchor-id="final-website-exploring-female-representation-in-moma"><a href="https://exhibitexplorers.humspace.ucla.edu/">Final Website: Exploring Female Representation in MoMA</a></h3>
-<p>My team and I created a website discussing the lack of female representation in art museums. We used the Artworks.csv dataset from this <a href="https://github.com/MuseumofModernArt/collection">GitHub repository</a> created by the Museum of Modern Art (MoMA). The dataset includes the title of every art piece acquired by the MoMA museum in New York since its opening, demographic information about the artist, the date the art piece was acquired, whether the art piece is currently on view, and many more variables. We used this data to make visualizations showing how female artist representation has changed in MoMA over time both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.</p>
+<section id="final-report" class="level3">
+<h3 class="anchored" data-anchor-id="final-report"><a href="Stats140XP_FinalReport.pdf">Final Report</a></h3>
 </section>
-<section id="our-research-questions" class="level3">
-<h3 class="anchored" data-anchor-id="our-research-questions">Our Research Questions</h3>
+<section id="final-poster" class="level3">
+<h3 class="anchored" data-anchor-id="final-poster"><a href="Stats140XP_ProjectPoster.pdf">Final Poster</a></h3>
+<p>My team and I used this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">dataset</a> with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, TikTok posts, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">link</a>. We used this dataset to answer the following research questions.</p>
+</section>
+<section id="research-questions" class="level3">
+<h3 class="anchored" data-anchor-id="research-questions">Research Questions</h3>
 <ol type="1">
-<li><p>How did waves of feminism and American social movements of the mid-1900s affect the representation of American female artists in the MoMA collection?&nbsp;</p></li>
-<li><p>Beyond the U.S., how did global feminist movements relate to the ethnic diversity of female artists in the MoMA collection?</p></li>
+<li>Does the release month of a song impact its popularity?</li>
+<li>Are certain genres of songs more popular on certain platforms?</li>
+<li>Is there a correlation between a song’s popularity on TikTok vs.&nbsp;Spotify?</li>
 </ol>
 </section>
 <section id="my-role" class="level3">
 <h3 class="anchored" data-anchor-id="my-role">My Role</h3>
-<p>My main responsibility for this project was web design through WordPress. I also helped clean the data and create data visualizations.</p>
+<p>I was specifically responsible for cleaning the data and answering research question 1. I cleaned the data by removing duplicate observations, removing unnecessary columns, standardizing the release date column, adding a “Release.Month” column, and performing missing data imputation. Further, the columns that contained numbers of streams/likes/posts/views were originally stored as categorical variables and contained commas within the numbers. I eliminated the commas and made these variables numeric.</p>
+<p>For research question 1, I checked the assumptions for ANOVA and found that the residuals were heavily skewed and did not follow a normal distribution. Therefore, I used the nonparametric Kruskal Wallis test to evaluate whether at least one release month had a statistically different distribution of Spotify streams compared to others. For the post-hoc analysis, I used the Wilcoxon Rank-Sum test with Bonferroni correction to evaluate which specific release months had a different distribution of Spotify Streams.</p>
 
 
 </section>
