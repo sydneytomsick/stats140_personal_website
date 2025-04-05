@@ -6,7 +6,7 @@ date: "March 2025"
 
 ### About
 
-My team and I created a [**website**](#0) in which we explore the impacts of the Eaton Fire on marginalized communities in Altadena. Our website compiles maps we created using ArcGIS and our narrative which discusses the history of discrimination within Altadena. To create our maps, we used various datasets such as the [Cal Fire Damage Inspection (DINS) data](#0), a layer within ArcGIS which shows how much damage each house and structure faced in the Eaton Fire. We also used [HOLC grade data](#0), [the National Register of Historic Places](#0), and [US Census data](#0).
+My team and I created a [**website**](https://arcg.is/0fDb4O){#overview style="blue"} in which we explore the impacts of the Eaton Fire on marginalized communities in Altadena. Our website compiles maps we created using ArcGIS and our narrative which discusses the history of discrimination within Altadena. To create our maps, we used various datasets such as the [Cal Fire Damage Inspection (DINS) data](https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/DINS_2025_Eaton_Public_View/FeatureServer), a layer within ArcGIS which shows how much damage each house and structure faced in the Eaton Fire. We also used [HOLC grade data](https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LA_County_HOLC/FeatureServer), [the National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/database-research.htm), and [US Census data](https://data.census.gov/table/DECENNIALDHC2020.P9?q=decennial+census&t=Race+and+Ethnicity&g=1400000US06037460100,06037460101,06037460200,06037460301,06037460302,06037461000,06037461100,06037461200,06037461300).
 
 ### Research Questions
 
