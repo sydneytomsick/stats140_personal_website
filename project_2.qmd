@@ -1,11 +1,12 @@
 ---
 title: "Kaggle Competition: Predicting Obesity Status"
+link-external-icon: true
 date: "December 2024"
 ---
 
-### [Final Report](Stats101C_Final_Paper.pdf)
+### About
 
-My team and I were provided with a training and testing dataset containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable "obesity status" classified individuals as either "Obese" or "Not Obese". We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors.
+My team and I were provided with a training and testing dataset containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable "obesity status" classified individuals as either "Obese" or "Not Obese". We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. Here is my written [**Report**](Stats101C_Final_Paper.pdf)**.**
 
 ### Methods
 

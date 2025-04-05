@@ -106,8 +106,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#final-website-exploring-female-representation-in-moma" id="toc-final-website-exploring-female-representation-in-moma" class="nav-link active" data-scroll-target="#final-website-exploring-female-representation-in-moma">Final Website: Exploring Female Representation in MoMA</a></li>
-  <li><a href="#our-research-questions" id="toc-our-research-questions" class="nav-link" data-scroll-target="#our-research-questions">Our Research Questions</a></li>
+  <li><a href="#our-research-questions" id="toc-our-research-questions" class="nav-link active" data-scroll-target="#our-research-questions">Our Research Questions</a></li>
   <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role">My Role</a></li>
   </ul>
 </nav>
@@ -138,10 +137,7 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="final-website-exploring-female-representation-in-moma" class="level3">
-<h3 class="anchored" data-anchor-id="final-website-exploring-female-representation-in-moma"><a href="https://exhibitexplorers.humspace.ucla.edu/">Final Website: Exploring Female Representation in MoMA</a></h3>
-<p>My team and I created a website discussing the lack of female representation in art museums. We used the Artworks.csv dataset from this <a href="https://github.com/MuseumofModernArt/collection">GitHub repository</a> created by the Museum of Modern Art (MoMA). The dataset includes the title of every art piece acquired by the MoMA museum in New York since its opening, demographic information about the artist, the date the art piece was acquired, whether the art piece is currently on view, and many more variables. We used this data to make visualizations showing how female artist representation has changed in MoMA over time both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.</p>
-</section>
+<p>My team and I created a <a href="https://exhibitexplorers.humspace.ucla.edu"><strong>website</strong></a>discussing the lack of female representation in art museums. We used the Artworks.csv dataset from this <a href="https://github.com/MuseumofModernArt/collection">GitHub repository</a> created by the Museum of Modern Art (MoMA). The dataset includes the title of every art piece acquired by the MoMA museum in New York since its opening, demographic information about the artist, the date the art piece was acquired, whether the art piece is currently on view, and many more variables. We used this data to make visualizations showing how female artist representation has changed in MoMA over time both in the US and globally. Using our research, we discussed potential connections between changes in gender representation in MoMA and feminist movements taking place at the same time.</p>
 <section id="our-research-questions" class="level3">
 <h3 class="anchored" data-anchor-id="our-research-questions">Our Research Questions</h3>
 <ol type="1">
@@ -388,6 +384,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

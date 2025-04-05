@@ -106,8 +106,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#final-report" id="toc-final-report" class="nav-link active" data-scroll-target="#final-report">Final Report</a></li>
-  <li><a href="#final-poster" id="toc-final-poster" class="nav-link" data-scroll-target="#final-poster">Final Poster</a></li>
+  <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About</a></li>
   <li><a href="#research-questions" id="toc-research-questions" class="nav-link" data-scroll-target="#research-questions">Research Questions</a></li>
   <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role">My Role</a></li>
   </ul>
@@ -139,12 +138,9 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="final-report" class="level3">
-<h3 class="anchored" data-anchor-id="final-report"><a href="Stats140XP_FinalReport.pdf">Final Report</a></h3>
-</section>
-<section id="final-poster" class="level3">
-<h3 class="anchored" data-anchor-id="final-poster"><a href="Stats140XP_ProjectPoster.pdf">Final Poster</a></h3>
-<p>My team and I used this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">dataset</a> with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, TikTok posts, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">link</a>. We used this dataset to answer the following research questions.</p>
+<section id="about" class="level3">
+<h3 class="anchored" data-anchor-id="about">About</h3>
+<p>My team and I used this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">dataset</a> with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">link</a>. We used this dataset to answer the following research questions. Here is our <a href="Stats140XP_FinalReport.pdf"><strong>Report</strong></a> and <a href="Stats140XP_ProjectPoster.pdf"><strong>Poster</strong></a>.</p>
 </section>
 <section id="research-questions" class="level3">
 <h3 class="anchored" data-anchor-id="research-questions">Research Questions</h3>
@@ -156,7 +152,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="my-role" class="level3">
 <h3 class="anchored" data-anchor-id="my-role">My Role</h3>
-<p>I was specifically responsible for cleaning the data and answering research question 1. I cleaned the data by removing duplicate observations, removing unnecessary columns, standardizing the release date column, adding a “Release.Month” column, and performing missing data imputation. Further, the columns that contained numbers of streams/likes/posts/views were originally stored as categorical variables and contained commas within the numbers. I eliminated the commas and made these variables numeric.</p>
+<p>I was specifically responsible for cleaning the data and answering research question 1. I cleaned the data by removing duplicate observations, removing unnecessary columns, standardizing the release date column, adding a “Release.Month” column, ensuring each variable was the correct data type, and performing missing data imputation.</p>
 <p>For research question 1, I checked the assumptions for ANOVA and found that the residuals were heavily skewed and did not follow a normal distribution. Therefore, I used the nonparametric Kruskal Wallis test to evaluate whether at least one release month had a statistically different distribution of Spotify streams compared to others. For the post-hoc analysis, I used the Wilcoxon Rank-Sum test with Bonferroni correction to evaluate which specific release months had a different distribution of Spotify Streams.</p>
 
 
@@ -394,6 +390,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // default icon
+          link.classList.add("external");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

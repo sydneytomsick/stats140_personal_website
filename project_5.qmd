@@ -1,17 +1,14 @@
 ---
 title: "Altadena and The Eaton Fire"
+link-external-icon: true
 date: "March 2025"
 ---
 
-### [Final Website](https://arcg.is/0fDb4O)
+### About
 
-My team and I created a story map exploring the impacts of the Eaton Fire on the community of Altadena. We answered our research questions by discussing the history of Altadena and creating various maps. We used various datasets to create maps such as the [Cal Fire Damage Inspection (DINS) data](https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/DINS_2025_Eaton_Public_View/FeatureServer), a layer within ArcGIS which shows how much damage each house and structure faced in the Eaton Fire. We also used [HOLC grade data](https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LA_County_HOLC/FeatureServer), [the National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/database-research.htm), and [US Census data](https://data.census.gov/table/DECENNIALDHC2020.P9?q=decennial+census&t=Race+and+Ethnicity&g=1400000US06037460100,06037460101,06037460200,06037460301,06037460302,06037461000,06037461100,06037461200,06037461300).
+My team and I created a [**website**](#0) in which we explore the impacts of the Eaton Fire on marginalized communities in Altadena. Our website compiles maps we created using ArcGIS and our narrative which discusses the history of discrimination within Altadena. To create our maps, we used various datasets such as the [Cal Fire Damage Inspection (DINS) data](#0), a layer within ArcGIS which shows how much damage each house and structure faced in the Eaton Fire. We also used [HOLC grade data](#0), [the National Register of Historic Places](#0), and [US Census data](#0).
 
 ### Research Questions
 
 1.  How did the Eaton Fire damages affect homeowners in marginalized communities in Altadena, and what role did historical segregation policies play in shaping vulnerability to wildfire risks?
 2.  How did the Eaton Fire impact Altadena’s community both in terms of historical landmarks and cultural legacy? What does the loss of these spaces mean for the community’s future?
-
-To answer the first research question, one map we created overlaid the HOLC grade data with the DINS data. This showed which HOLC grades were most/least affected by the Eaton Fire. We found that while Zone B and D went largely unaffected, Zone C contained significantly more destroyed homes than Zone A. This supports the conclusion that lower HOLC grade zones have higher wildfire risk. However, we would need to do further research to confirm this finding.
-
-To answer the second research question, we created a map showing the historical landmarks that were impacted by the Eaton Fire, and a community story map which highlights stories of people whose homes or businesses were destroyed by the fire.
