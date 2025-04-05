@@ -1,6 +1,7 @@
 ---
 title: "A Clinical Study: The Effect of Caffeine and Exercise on Attention"
 link-external-icon: true
+link-external-newwindow: true
 date: "September 2024"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "The Social Soundscape: How Social Media Impacts Music Popularity"
 link-external-icon: true
+link-external-newwindow: true
 date: "March 2025"
 ---
 

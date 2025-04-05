@@ -1,6 +1,7 @@
 ---
 title: "Exploring Female Representation in MoMA"
 link-external-icon: true
+link-external-newwindow: true
 date: "December 2024"
 ---
 

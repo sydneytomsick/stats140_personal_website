@@ -1,6 +1,7 @@
 ---
 title: "Kaggle Competition: Predicting Obesity Status"
 link-external-icon: true
+link-external-newwindow: true
 date: "December 2024"
 ---
 

@@ -139,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="about" class="level3">
 <h3 class="anchored" data-anchor-id="about">About</h3>
-<p>My team and I created a <a href="https://arcg.is/0fDb4O" id="overview" style="blue"><strong>website</strong></a> in which we explore the impacts of the Eaton Fire on marginalized communities in Altadena. Our website compiles maps we created using ArcGIS and our narrative which discusses the history of discrimination within Altadena. To create our maps, we used various datasets such as the <a href="https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/DINS_2025_Eaton_Public_View/FeatureServer">Cal Fire Damage Inspection (DINS) data</a>, a layer within ArcGIS which shows how much damage each house and structure faced in the Eaton Fire. We also used <a href="https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LA_County_HOLC/FeatureServer">HOLC grade data</a>, <a href="https://www.nps.gov/subjects/nationalregister/database-research.htm">the National Register of Historic Places</a>, and <a href="https://data.census.gov/table/DECENNIALDHC2020.P9?q=decennial+census&amp;t=Race+and+Ethnicity&amp;g=1400000US06037460100,06037460101,06037460200,06037460301,06037460302,06037461000,06037461100,06037461200,06037461300">US Census data</a>.</p>
+<p>My team and I created a <a href="https://arcg.is/0fDb4O" style="color: blue;"><strong>website</strong></a> in which we explore the impacts of the Eaton Fire on marginalized communities in Altadena. Our website compiles maps we created using ArcGIS and our narrative which discusses the history of discrimination within Altadena. To create our maps, we used various datasets such as the <a href="https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/DINS_2025_Eaton_Public_View/FeatureServer">Cal Fire Damage Inspection (DINS) data</a>, a layer within ArcGIS which shows how much damage each house and structure faced in the Eaton Fire. We also used <a href="https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LA_County_HOLC/FeatureServer">HOLC grade data</a>, <a href="https://www.nps.gov/subjects/nationalregister/database-research.htm">the National Register of Historic Places</a>, and <a href="https://data.census.gov/table/DECENNIALDHC2020.P9?q=decennial+census&amp;t=Race+and+Ethnicity&amp;g=1400000US06037460100,06037460101,06037460200,06037460301,06037460302,06037461000,06037461100,06037461200,06037461300">US Census data</a>.</p>
 </section>
 <section id="research-questions" class="level3">
 <h3 class="anchored" data-anchor-id="research-questions">Research Questions</h3>
@@ -393,6 +393,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
           // default icon
           link.classList.add("external");
       }
