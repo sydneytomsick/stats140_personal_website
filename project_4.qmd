@@ -7,7 +7,7 @@ date: "March 2025"
 
 ### About
 
-My team and I used this [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024) with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this [link](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024). We used this dataset to answer the following research questions. Here is our [**Report**](Stats140XP_FinalReport.pdf) and [**Poster**](Stats140XP_ProjectPoster.pdf).
+My team and I used this [dataset](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024) with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this [link](https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024). We used this dataset to answer the following research questions. Here is our [**Report**](Stats140XP_FinalReport.pdf){style="color: blue;"} and [**Poster**](Stats140XP_ProjectPoster.pdf){style="color: blue;"}.
 
 ### Research Questions
 
