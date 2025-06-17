@@ -6,6 +6,8 @@ listing:
   fields: [date, title]
   date-format: "MMMM, YYYY"
   contents:
+    - "project_7.qmd"
+    - "project_6.qmd"
     - "project_4.qmd"
     - "project_5.qmd"
     - "project_1.qmd"
