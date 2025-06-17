@@ -1,5 +1,5 @@
 ---
-title: "UX Design for "Snagged""
+title: "UX Design for Snagged"
 link-external-icon: true
 link-external-newwindow: true
 date: "June 2025"

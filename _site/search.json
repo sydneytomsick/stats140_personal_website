@@ -88,7 +88,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nMarch, 2025\n\n\nThe Social Soundscape: How Social Media Impacts Music Popularity\n\n\n\n\nMarch, 2025\n\n\nAltadena and The Eaton Fire\n\n\n\n\nDecember, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\nDecember, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\nSeptember, 2024\n\n\nA Clinical Study: The Effect of Caffeine and Exercise on Attention\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJune, 2025\n\n\nClient Project: A Statistical Analysis of the Informed Placement Process at UCLA\n\n\n\n\nJune, 2025\n\n\nUX Design for Snagged\n\n\n\n\nMarch, 2025\n\n\nThe Social Soundscape: How Social Media Impacts Music Popularity\n\n\n\n\nMarch, 2025\n\n\nAltadena and The Eaton Fire\n\n\n\n\nDecember, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\nDecember, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\nSeptember, 2024\n\n\nA Clinical Study: The Effect of Caffeine and Exercise on Attention\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project_1.html",
@@ -124,5 +124,19 @@
     "title": "The Social Soundscape: How Social Media Impacts Music Popularity",
     "section": "",
     "text": "About\nMy team and I used this dataset with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this link. We used this dataset to answer the following research questions. Here is our Report and Poster.\n\n\nResearch Questions\n\nDoes the release month of a song impact its popularity?\nAre certain genres of songs more popular on certain platforms?\nIs there a correlation between a song’s popularity on TikTok vs. Spotify?\n\n\n\nMy Role\nI was specifically responsible for cleaning the data and answering research question 1. I cleaned the data by removing duplicate observations, removing unnecessary columns, standardizing the release date column, adding a “Release.Month” column, ensuring each variable was the correct data type, and performing missing data imputation.\nFor research question 1, I checked the assumptions for ANOVA and found that the residuals were heavily skewed and did not follow a normal distribution. Therefore, I used the nonparametric Kruskal Wallis test to evaluate whether at least one release month had a statistically different distribution of Spotify streams compared to others. For the post-hoc analysis, I used the Wilcoxon Rank-Sum test with Bonferroni correction to evaluate which specific release months had a different distribution of Spotify Streams."
+  },
+  {
+    "objectID": "project_6.html",
+    "href": "project_6.html",
+    "title": "UX Design for Snagged",
+    "section": "",
+    "text": "About\nI conceptualized and designed “Snagged”: an app for style-conscious thrifters who want to discover new thrift stores, rate and review their experiences, and share their journey with friends. My whole process of designing “Snagged” can be found on this website; from user interviews and personas to wireframes and the final design."
+  },
+  {
+    "objectID": "project_7.html",
+    "href": "project_7.html",
+    "title": "Client Project: A Statistical Analysis of the Informed Placement Process at UCLA",
+    "section": "",
+    "text": "About\nThis Statistical Analysis Paper was a client project for the UCLA English Department, which aimed to understand how self-assessments and demographic factors influence incoming students’ English placement outcomes. Using data from 980 students, we built logistic and linear regression models to examine how writing confidence and structural inequities affect placement results. We found that higher self-reported confidence reduced the need for a second evaluator, while underrepresented minority students were more likely to be placed in lower-level courses, pointing to potential disparities in the placement process."
   }
 ]
