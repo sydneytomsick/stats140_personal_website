@@ -1,5 +1,5 @@
 ---
-title: "Client Project: A Statistical Analysis of the Informed Placement Process (IPP) at UCLA"
+title: "Client Project: A Statistical Analysis of the Informed Placement Process at UCLA"
 link-external-icon: true
 link-external-newwindow: true
 date: "June 2025"
