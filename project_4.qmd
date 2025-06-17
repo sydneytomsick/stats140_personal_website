@@ -20,4 +20,3 @@ My team and I used this [dataset](https://www.kaggle.com/datasets/nelgiriyewitha
 I was specifically responsible for cleaning the data and answering research question 1. I cleaned the data by removing duplicate observations, removing unnecessary columns, standardizing the release date column, adding a "Release.Month" column, ensuring each variable was the correct data type, and performing missing data imputation.
 
 For research question 1, I checked the assumptions for ANOVA and found that the residuals were heavily skewed and did not follow a normal distribution. Therefore, I used the nonparametric Kruskal Wallis test to evaluate whether at least one release month had a statistically different distribution of Spotify streams compared to others. For the post-hoc analysis, I used the Wilcoxon Rank-Sum test with Bonferroni correction to evaluate which specific release months had a different distribution of Spotify Streams.
-
