@@ -10,27 +10,12 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/sydney-tomsick-82892829a/
-    - icon: github
-      text: github
-      href: https://github.com/sydneytomsick
 ---
 
-Sydney Tomsick is a third-year Statistics and Data Science major at UCLA with a minor in Digital Humanities. She is passionate about deriving valuable insights through data and presenting her findings in creative and innovative ways. She also enjoys web design and user experience research. Outside of academic pursuits, Sydney loves to dance and is one of the directors of Synthesis Dance Theater, a dance club at UCLA.
+I am a fourth-year Statistics and Data Science major at UCLA with a minor in Digital Humanities. I'm passionate about uncovering meaningful insights through data analysis and communicating them through user-centered design. With interests spanning statistics, data science, UX design, and digital humanities, I enjoy working at the intersection of quantitative analysis and creative storytelling: translating complex data into accessible, engaging experiences across digital platforms. Outside of academic pursuits, I love to dance and am one of the directors of Synthesis Dance Theater, a dance club at UCLA.
 
-Download [My Resume](Resume_April25.pdf)
+I bring extensive experience in museum operations, with previous roles at both the Lawrence Hall of Science (LHS) and the Hammer Museum. At each institution, I worked at the front desk welcoming visitors, selling tickets and memberships, and completing administrative tasks. After a summer on the retail team at LHS, I was promoted to Assistant Manager, where I gained hands-on experience with marketing analytics and strategy. I tracked daily sales data, identified seasonal trends across multiple years, and used these insights to assess performance and inform decision-making. I also gathered and analyzed visitor feedback to advocate for changes. These experiences sparked my interest in using data to drive organizational improvements and motivated me to explore marketing analytics as a career.
 
-### Education
+Download [**My** ](Resume_April25.pdf)[**Resume**](CurrentWebsiteResume.pdf)here.
 
-University of California, Los Angeles
-
--   BS in Statistics/Data Science
-
--   Minor in Digital Humanities
-
--   Sept 2022 - Present
-
-### Experience
-
-Sydney is a data journalist for [The Stack](https://stack.dailybruin.com/), a branch of the Daily Bruin. She writes articles about various topics on campus centered around data insights and visualizations. Here is an [article](https://stack.dailybruin.com/2024/01/20/startups-ucla/) she wrote about startups at UCLA.
-
-Go to the [Projects page](projects.qmd) to see other projects Sydney has worked on for class and in her free time!
+Go to the [**Projects page**](projects.qmd) to see other projects I have worked on for class and in my free time!
