@@ -5,14 +5,4 @@ link-external-newwindow: true
 date: "September 2024"
 ---
 
-### About
-
-Using a 2-way factorial design with interactions, I studied whether caffeine intake and exercise duration significantly impact attention span. Here is my written [**Report**](Stats101B_Final_Project.pdf){style="color: blue;"},
-
-There were 9 experimental groups in total. The 2 factors each had 3 levels:
-
--   **Caffeine intake:** Green Tea (250mL), Coffee (250mL), Coffee (500mL)
-
--   **Running distance**: 100m, 1km, 5km
-
-I used ANOVA to reveal whether caffeine intake, running distance, or their interaction had a statistically significant effect on attention span. I used Tukey's test to reveal whether any individual group differed significantly from the others.
+In this clinical study, [***The Effect of Caffeine and Exercise on Attention***](Stats101B_Final_Project.pdf){style="color: blue;"}, I investigated whether caffeine intake and running distance significantly impact attention span using a 2-way factorial design with interactions. Both factors had three levels—caffeine (250mL green tea, 250mL coffee, 500mL coffee) and exercise (100m, 1km, 5km)—creating nine experimental groups. The study was conducted using *The Island*, an online simulation platform that allowed me to administer treatments and measure attention in simulated individuals. ANOVA and Tukey’s post-hoc tests revealed no statistically significant effect from caffeine, exercise, or their interaction on attention span, suggesting these variables do not meaningfully impact attentional performance in the context of this simulation.

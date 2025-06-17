@@ -1,10 +1,8 @@
 ---
-title: "Client Project: A Statistical Analysis of the Informed Placement Process at UCLA"
+title: "Client Project: A Statistical Analysis of the Informed Placement Process (IPP) at UCLA"
 link-external-icon: true
 link-external-newwindow: true
 date: "June 2025"
 ---
 
-### About 
-
-This [**Statistical Analysis Paper**](A_Statistical_Analysis_of_the_Informed_Placement_Process__IPP__at_UCLA_Final copy.pdf){style="color: blue;"} was a client project for the UCLA English Department, which aimed to understand how self-assessments and demographic factors influence incoming students' English placement outcomes. Using data from 980 students, we built logistic and linear regression models to examine how writing confidence and structural inequities affect placement results. We found that higher self-reported confidence reduced the need for a second evaluator, while underrepresented minority students were more likely to be placed in lower-level courses, pointing to potential disparities in the placement process.
+This client project, [***A Statistical Analysis of the Informed Placement Process (IPP) at UCLA***](A_Statistical_Analysis_of_the_Informed_Placement_Process__IPP__at_UCLA_Final copy.pdf){style="color: blue;"}***,*** was completed for the UCLA English Department, which aimed to understand how self-assessments and demographic factors influence incoming students' English placement outcomes. Using data from 980 students, we built logistic and linear regression models to examine how writing confidence and structural inequities affect placement results. We found that higher self-reported confidence reduced the need for a second evaluator, while underrepresented minority students were more likely to be placed in lower-level courses, pointing to potential disparities in the placement process.

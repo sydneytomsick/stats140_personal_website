@@ -102,15 +102,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About</a></li>
-  <li><a href="#research-questions" id="toc-research-questions" class="nav-link" data-scroll-target="#research-questions">Research Questions</a></li>
-  <li><a href="#my-role" id="toc-my-role" class="nav-link" data-scroll-target="#my-role">My Role</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -138,25 +130,9 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="about" class="level3">
-<h3 class="anchored" data-anchor-id="about">About</h3>
-<p>My team and I used this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">dataset</a> with over 4000 observations. It contains the name, artist, album name, and release date of the songs with the most Spotify streams in 2024. It also contains the number of Spotify Streams, Youtube views, Youtube likes, TikTok views, and TikTok likes of each song, and information from other music streaming platforms (Apple music, Pandora, Soundcloud, etc.). You can find more information about each of the variables at this <a href="https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024">link</a>. We used this dataset to answer the following research questions. Here is our <a href="Stats140XP_FinalReport.pdf" style="color: blue;"><strong>Report</strong></a> and <a href="Stats140XP_ProjectPoster.pdf" style="color: blue;"><strong>Poster</strong></a>.</p>
-</section>
-<section id="research-questions" class="level3">
-<h3 class="anchored" data-anchor-id="research-questions">Research Questions</h3>
-<ol type="1">
-<li>Does the release month of a song impact its popularity?</li>
-<li>Are certain genres of songs more popular on certain platforms?</li>
-<li>Is there a correlation between a song’s popularity on TikTok vs.&nbsp;Spotify?</li>
-</ol>
-</section>
-<section id="my-role" class="level3">
-<h3 class="anchored" data-anchor-id="my-role">My Role</h3>
-<p>I was specifically responsible for cleaning the data and answering research question 1. I cleaned the data by removing duplicate observations, removing unnecessary columns, standardizing the release date column, adding a “Release.Month” column, ensuring each variable was the correct data type, and performing missing data imputation.</p>
-<p>For research question 1, I checked the assumptions for ANOVA and found that the residuals were heavily skewed and did not follow a normal distribution. Therefore, I used the nonparametric Kruskal Wallis test to evaluate whether at least one release month had a statistically different distribution of Spotify streams compared to others. For the post-hoc analysis, I used the Wilcoxon Rank-Sum test with Bonferroni correction to evaluate which specific release months had a different distribution of Spotify Streams.</p>
+<p>In our project, <a href="Stats140XP_FinalReport.pdf" style="color: blue;"><strong><em>The Social Soundscape: How Social Media Impacts Music Popularity</em></strong></a>, my team and I analyzed a dataset of over 4,000 songs with the highest Spotify streams in 2024, incorporating data from YouTube, TikTok, Apple Music, and other platforms. We explored three key questions: whether a song’s release month affects its popularity, how genre performance varies across platforms, and the relationship between TikTok engagement and Spotify streams. I led the data cleaning process and conducted the analysis for our first research question, using the Kruskal-Wallis test and Wilcoxon post-hoc comparisons after finding ANOVA assumptions were violated. We found that songs released in January saw significantly higher Spotify streams, likely due to seasonal trends. Our findings offer insights for artists and marketers on how timing and platform strategy can shape a song’s success in today’s algorithm-driven music landscape.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

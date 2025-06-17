@@ -102,14 +102,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About</a></li>
-  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -137,20 +130,9 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="about" class="level3">
-<h3 class="anchored" data-anchor-id="about">About</h3>
-<p>My team and I were provided with a training and testing dataset containing 29 predictors of obesity status capturing aspects such as dietary habits, physical activity, water consumption, and family medical history. The outcome variable “obesity status” classified individuals as either “Obese” or “Not Obese”. We were tasked with predicting obesity status for the testing dataset and determining the most influential predictors. Here is my written <a href="Stats101C_Final_Paper.pdf" style="color: blue;"><strong>Report</strong></a><strong>.</strong></p>
-</section>
-<section id="methods" class="level3">
-<h3 class="anchored" data-anchor-id="methods">Methods</h3>
-<p>First, we imputed the data using random forests to fill in missing values. Then, we tried multiple models to predict obesity status such as logistic regression, decision trees, and random forests. Our random forests model with 500 trees performed best, with a testing prediction accuracy of 99.943%.</p>
-<p>We then found the most influential predictors using correlation analysis (point-biserial and Cramer’s V correlation) and variable importance from the random forests model.</p>
-<section id="section" class="level4">
-<h4 class="anchored" data-anchor-id="section"></h4>
+<p>In this team project, <a href="Stats101C_Final_Paper.pdf" style="color: blue;"><strong><em>Predicting Obesity Status Based on Genetic and Lifestyle Factors</em></strong></a>, we aimed to predict individuals’ obesity status using a dataset of 42,686 observations with 29 predictors spanning dietary habits, physical activity, water intake, and family history. After imputing missing values with random forest methods, we evaluated several classification models including logistic regression, decision trees, and random forests. Our final model, a random forest with 500 trees, achieved a testing accuracy of 99.943%. We also used correlation analysis and variable importance rankings to identify the most influential predictors, which included frequent consumption of high-calorie foods (FAVC), physical activity frequency (FAF), water intake (CH2O), number of main meals (NCP), and family history of being overweight.</p>
 
 
-</section>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

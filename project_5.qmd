@@ -5,11 +5,4 @@ link-external-newwindow: true
 date: "March 2025"
 ---
 
-### About
-
-My team and I created a [**website**](https://arcg.is/0fDb4O){style="color: blue;"} in which we explore the impacts of the Eaton Fire on marginalized communities in Altadena. Our website compiles maps we created using ArcGIS and our narrative which discusses the history of discrimination within Altadena. To create our maps, we used various datasets such as the [Cal Fire Damage Inspection (DINS) data](https://services1.arcgis.com/jUJYIo9tSA7EHvfZ/arcgis/rest/services/DINS_2025_Eaton_Public_View/FeatureServer), a layer within ArcGIS which shows how much damage each house and structure faced in the Eaton Fire. We also used [HOLC grade data](https://services.arcgis.com/RmCCgQtiZLDCtblq/arcgis/rest/services/LA_County_HOLC/FeatureServer), [the National Register of Historic Places](https://www.nps.gov/subjects/nationalregister/database-research.htm), and [US Census data](https://data.census.gov/table/DECENNIALDHC2020.P9?q=decennial+census&t=Race+and+Ethnicity&g=1400000US06037460100,06037460101,06037460200,06037460301,06037460302,06037461000,06037461100,06037461200,06037461300).
-
-### Research Questions
-
-1.  How did the Eaton Fire damages affect homeowners in marginalized communities in Altadena, and what role did historical segregation policies play in shaping vulnerability to wildfire risks?
-2.  How did the Eaton Fire impact Altadena’s community both in terms of historical landmarks and cultural legacy? What does the loss of these spaces mean for the community’s future?
+In [***Altadena and the Eaton Fire***](https://arcg.is/0fDb4O){style="color: blue;"}, my team and I developed an interactive website using ArcGIS StoryMaps to examine the disproportionate impacts of the 2023 Eaton Fire on historically marginalized communities in Altadena, California. The first half of our project uses spatial data—including Cal Fire’s Damage Inspection (DINS) reports, HOLC redlining maps, and U.S. Census data—to investigate how redlining and discriminatory housing policies have shaped present-day vulnerability to wildfire damage. The second half shifts to a more human-centered narrative, examining the fire’s impact on Altadena’s cultural landscape through the loss of historic landmarks, small businesses, and individual homes, many tied to long-standing Black and Latinx families. Together, these stories and spatial patterns reveal how past and present injustices shape who bears the brunt of climate disasters.
