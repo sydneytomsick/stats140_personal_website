@@ -14,6 +14,6 @@ about:
 
 I am a fourth-year Statistics and Data Science major at UCLA with a minor in Digital Humanities. I'm passionate about uncovering meaningful insights through data analysis and communicating them through user-centered design. With interests spanning statistics, data science, UX design, and digital humanities, I enjoy working at the intersection of quantitative analysis and creative storytelling: translating complex data into accessible, engaging experiences across digital platforms. Outside of academic pursuits, I love to dance and am one of the directors of Synthesis Dance Theater, a dance club at UCLA.
 
-Download [**My** ](Resume_April25.pdf)[**Resume**](CurrentWebsiteResume.pdf)here.
+Download [**My Resume**](CurrentWebsiteResume.pdf) here.
 
 Go to the [**Projects page**](projects.qmd) to see other projects I have worked on for class and in my free time!
