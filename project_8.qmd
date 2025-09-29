@@ -5,6 +5,6 @@ link-external-newwindow: true
 date: "September 2025"
 ---
 
-I designed and built [***The Compton Spectrometer and Imager (COSI) website***](https://cosi.ssl.berkeley.edu/)using WordPress. While the written and visual content (text, images, videos) was provided, I planned the site structure and layout to create a professional, user-friendly experience.
+I designed and built [*The Compton Spectrometer and Imager (COSI) website*](https://cosi.ssl.berkeley.edu/){style="color: blue;"}using WordPress. While the written and visual content (text, images, videos) was provided, I planned the site structure and layout to create a professional, user-friendly experience.
 
 To enhance functionality and design, I incorporated custom HTML and CSS to develop a hero banner, a secondary sliding menu, and mobile-friendly styling across the site.

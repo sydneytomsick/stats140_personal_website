@@ -1,1 +1,11 @@
 /* css styles */
+
+/* Change project link colors */
+a {
+  color: blue;
+}
+
+/* Optional: change hover color */
+a:hover {
+  color: darkblue;
+}
