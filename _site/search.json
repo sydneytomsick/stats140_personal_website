@@ -88,7 +88,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJune, 2025\n\n\nClient Project: A Statistical Analysis of the Informed Placement Process (IPP) at UCLA\n\n\n\n\nJune, 2025\n\n\nUX Design for Snagged\n\n\n\n\nMarch, 2025\n\n\nThe Social Soundscape: How Social Media Impacts Music Popularity\n\n\n\n\nMarch, 2025\n\n\nAltadena and The Eaton Fire\n\n\n\n\nDecember, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\nDecember, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\nSeptember, 2024\n\n\nA Clinical Study: The Effect of Caffeine and Exercise on Attention\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nSeptember, 2025\n\n\nCOSI Website Design and Development\n\n\n\n\nJune, 2025\n\n\nClient Project: A Statistical Analysis of the Informed Placement Process (IPP) at UCLA\n\n\n\n\nJune, 2025\n\n\nUX Design for Snagged\n\n\n\n\nMarch, 2025\n\n\nThe Social Soundscape: How Social Media Impacts Music Popularity\n\n\n\n\nMarch, 2025\n\n\nAltadena and The Eaton Fire\n\n\n\n\nDecember, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\nDecember, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\nSeptember, 2024\n\n\nA Clinical Study: The Effect of Caffeine and Exercise on Attention\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project_1.html",
@@ -138,5 +138,12 @@
     "title": "Client Project: A Statistical Analysis of the Informed Placement Process (IPP) at UCLA",
     "section": "",
     "text": "This client project, A Statistical Analysis of the Informed Placement Process (IPP) at UCLA, was completed for the UCLA English Department, which aimed to understand how self-assessments and demographic factors influence incoming students’ English placement outcomes. Using data from 980 students, we built logistic and linear regression models to examine how writing confidence and structural inequities affect placement results. We found that higher self-reported confidence reduced the need for a second evaluator, while underrepresented minority students were more likely to be placed in lower-level courses, pointing to potential disparities in the placement process."
+  },
+  {
+    "objectID": "project_8.html",
+    "href": "project_8.html",
+    "title": "COSI Website Design and Development",
+    "section": "",
+    "text": "I designed and built The Compton Spectrometer and Imager (COSI) websiteusing WordPress. While the written and visual content (text, images, videos) was provided, I planned the site structure and layout to create a professional, user-friendly experience.\nTo enhance functionality and design, I incorporated custom HTML and CSS to develop a hero banner, a secondary sliding menu, and mobile-friendly styling across the site."
   }
 ]
