@@ -14,6 +14,6 @@ about:
 
 I’m a fourth-year Statistics and Data Science major at UCLA, with a minor in Digital Humanities. With a multidisciplinary background in data science, UX design, marketing, and arts administration, I enjoy working at the intersection of quantitative analysis and creative storytelling: translating complex data into well-designed digital content and outreach strategies that resonate with people. Outside of academics, I’m a director of Synthesis Dance Theater, a student-run dance company at UCLA.
 
-Download [My Resume](Sydney_Tomsick_Resume.pdf) here.
+Download [My Resume](Sydney_Tomsick_Resume.pdf){style="color: blue;"} here.
 
-Go to the [Projects page](projects.qmd) to see other projects I have worked on for class and in my free time!
+Go to the [Projects page](projects.qmd){style="color: blue;"} to see other projects I have worked on for class and in my free time!
