@@ -1,0 +1,18 @@
+---
+title: "Projects for Hammer Development Internship"
+link-external-icon: true
+link-external-newwindow: true
+date: "August 2025"
+format: html
+css: styles.css
+---
+
+[Membership Feedback Survey Analysis](Member Feedback Survey Analysis copy.pdf){style="color: blue;"}
+
+![](Member Feedback Survey Analysis copy.pdf){.pdf-embed fig-align="left" width="100%"}
+
+[Museum Membership Benchmarking Project](Membership Benchmarking Project copy.pdf){style="color: blue;"}
+
+![](Membership Benchmarking Project copy.pdf){.pdf-embed fig-align="left"}
+
+I also created a series of [Tableau Dashboards](https://public.tableau.com/app/profile/sydney.tomsick/viz/AAMDGraphs/NumberofMembershipsforFreeMuseums) for the Hammer Museum using a dataset of 100+ survey questions comparing the Hammer to peer institutions. I visualized each question, allowing quick benchmarking against other museums. I also built interactive filters, allowing the team to narrow comparisons by categories such as contemporary museums, university-affiliated museums, California-based museums, free admission museums, or museums with similar operating budgets.

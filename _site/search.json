@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Sydney Tomsick",
     "section": "",
-    "text": "I’m a fourth-year Statistics and Data Science major at UCLA, with a minor in Digital Humanities. With a multidisciplinary background in data science, UX design, marketing, and arts administration, I enjoy working at the intersection of quantitative analysis and creative storytelling: translating complex data into well-designed digital content and outreach strategies that resonate with people. Outside of academics, I’m a director of Synthesis Dance Theater, a student-run dance company at UCLA.\nDownload My Resume here.\nGo to the Projects page to see other projects I have worked on for class and in my free time!"
+    "text": "I’m a fourth-year Statistics and Data Science major at UCLA, with a minor in Digital Humanities. With a multidisciplinary background in data science, UX design, marketing, and arts administration, I enjoy working at the intersection of quantitative analysis and creative storytelling: translating complex data into well-designed digital content and outreach strategies that resonate with people. Outside of academics, I’m a director of Synthesis Dance Theater, a student-run dance company at UCLA.\nDuring June–August 2025, I worked as the Hammer Museum’s Development Intern through the UCLA External Affairs Internship. I learned about UCLA’s donor acquisition and stewardship strategies through projects and presentations led by External Affairs staff. I researched and analyzed membership programs at ten peer museums, created interactive Tableau visualizations to synthesize member survey data and cross-institutional comparisons, and delivered data-driven recommendations to strengthen the Hammer Museum’s membership program. Find my projects for the internship here.\nDownload My Resume here.\nGo to the Projects page to see other projects I have worked on for class and in my free time!"
   },
   {
     "objectID": "index.html#education",
@@ -88,7 +88,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nSeptember, 2025\n\n\nCOSI Website Design and Development\n\n\n\n\nJune, 2025\n\n\nClient Project: A Statistical Analysis of the Informed Placement Process (IPP) at UCLA\n\n\n\n\nJune, 2025\n\n\nUX Design for Snagged\n\n\n\n\nMarch, 2025\n\n\nThe Social Soundscape: How Social Media Impacts Music Popularity\n\n\n\n\nMarch, 2025\n\n\nAltadena and The Eaton Fire\n\n\n\n\nDecember, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\nDecember, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\nSeptember, 2024\n\n\nA Clinical Study: The Effect of Caffeine and Exercise on Attention\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nSeptember, 2025\n\n\nCOSI Website Design and Development\n\n\n\n\nAugust, 2025\n\n\nProjects for Hammer Development Internship\n\n\n\n\nJune, 2025\n\n\nClient Project: Statistical Analysis of UCLA’s Informed Placement Process (IPP)\n\n\n\n\nJune, 2025\n\n\nUX Design for Snagged\n\n\n\n\nMarch, 2025\n\n\nThe Social Soundscape: How Social Media Impacts Music Popularity\n\n\n\n\nMarch, 2025\n\n\nAltadena and The Eaton Fire\n\n\n\n\nDecember, 2024\n\n\nKaggle Competition: Predicting Obesity Status\n\n\n\n\nDecember, 2024\n\n\nExploring Female Representation in MoMA\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project_1.html",
@@ -135,7 +135,7 @@
   {
     "objectID": "project_7.html",
     "href": "project_7.html",
-    "title": "Client Project: A Statistical Analysis of the Informed Placement Process (IPP) at UCLA",
+    "title": "Client Project: Statistical Analysis of UCLA’s Informed Placement Process (IPP)",
     "section": "",
     "text": "This client project, A Statistical Analysis of the Informed Placement Process (IPP) at UCLA, was completed for the UCLA English Department, which aimed to understand how self-assessments and demographic factors influence incoming students’ English placement outcomes. Using data from 980 students, we built logistic and linear regression models to examine how writing confidence and structural inequities affect placement results. We found that higher self-reported confidence reduced the need for a second evaluator, while underrepresented minority students were more likely to be placed in lower-level courses, pointing to potential disparities in the placement process."
   },
@@ -144,6 +144,13 @@
     "href": "project_8.html",
     "title": "COSI Website Design and Development",
     "section": "",
-    "text": "I designed and built The Compton Spectrometer and Imager (COSI) websiteusing WordPress. While the written and visual content (text, images, videos) was provided, I planned the site structure and layout to create a professional, user-friendly experience.\nTo enhance functionality and design, I incorporated custom HTML and CSS to develop a hero banner, a secondary sliding menu, and mobile-friendly styling across the site."
+    "text": "I designed and built The Compton Spectrometer and Imager (COSI) website using WordPress. While the written and visual content (text, images, videos) was provided, I planned the site structure and layout to create a professional, user-friendly experience.\nTo enhance functionality and design, I incorporated custom HTML and CSS to develop a hero banner, a secondary sliding menu, and mobile-friendly styling across the site."
+  },
+  {
+    "objectID": "project_9.html",
+    "href": "project_9.html",
+    "title": "Projects for Hammer Development Internship",
+    "section": "",
+    "text": "Membership Feedback Survey Analysis\n\n\n\n\n\nMuseum Membership Benchmarking Project\n\n\n\n\n\nI also created a series of Tableau Dashboards for the Hammer Museum using a dataset of 100+ survey questions comparing the Hammer to peer institutions. I visualized each question, allowing quick benchmarking against other museums. I also built interactive filters, allowing the team to narrow comparisons by categories such as contemporary museums, university-affiliated museums, California-based museums, free admission museums, or museums with similar operating budgets."
   }
 ]

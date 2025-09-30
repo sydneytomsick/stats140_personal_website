@@ -9,3 +9,15 @@ a {
 a:hover {
   color: darkblue;
 }
+
+.pdf-embed {
+  width: 800px !important;
+  height: 400px !important;
+  display: block;
+}
+
+.iframe-embed{
+  width: 800px !important;
+  height: 800px !important;
+  display: block;
+}

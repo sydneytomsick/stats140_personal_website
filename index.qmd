@@ -1,5 +1,7 @@
 ---
 title: "Sydney Tomsick"
+link-external-icon: true
+link-external-newwindow: true
 about:
   template: trestles
   image: IMG_4373.JPG
@@ -13,6 +15,8 @@ about:
 ---
 
 I’m a fourth-year Statistics and Data Science major at UCLA, with a minor in Digital Humanities. With a multidisciplinary background in data science, UX design, marketing, and arts administration, I enjoy working at the intersection of quantitative analysis and creative storytelling: translating complex data into well-designed digital content and outreach strategies that resonate with people. Outside of academics, I’m a director of Synthesis Dance Theater, a student-run dance company at UCLA.
+
+During June–August 2025, I worked as the Hammer Museum’s Development Intern through the UCLA External Affairs Internship. I learned about UCLA’s donor acquisition and stewardship strategies through projects and presentations led by External Affairs staff. I researched and analyzed membership programs at ten peer museums, created interactive Tableau visualizations to synthesize member survey data and cross-institutional comparisons, and delivered data-driven recommendations to strengthen the Hammer Museum’s membership program. Find my projects for the internship [here](project_9.qmd){style="color: blue;"}.
 
 Download [My Resume](Sydney_Tomsick_Resume.pdf){style="color: blue;"} here.
 
